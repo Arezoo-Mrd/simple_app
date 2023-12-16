@@ -1,0 +1,27 @@
+.form-group {
+    border: 1px solid #00695c;
+    padding: 40px;
+    border-radius: 8px;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: space-around;
+}
+.form-control {
+    display: flex;
+
+}
+
+.form-control label {
+    font-weight: bold;
+    margin-right: 10px;
+    min-width: 100px;
+    text-align: left;
+}
+
+.form-control input, .form-control textarea {
+    border-color: rgb(189, 189, 189) !important;
+    padding: 8px;
+    border: 1px solid;
+}
