@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-complete-guide",
+  "name": "simple_app",
   "version": "1.0.0",
-  "description": "Complete Node.js Guide",
+  "description": "simple app with nodejs and mysql",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
